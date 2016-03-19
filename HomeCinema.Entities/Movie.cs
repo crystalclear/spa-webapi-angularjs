@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace HomeCinema.Entities
 {
+    // Lerning by doing - MNE !!!
+
     public class Movie : IEntityBase
     {
         public Movie()
